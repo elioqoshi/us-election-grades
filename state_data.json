@@ -1,0 +1,2490 @@
+[
+  {
+    "name": "Alabama",
+    "abbreviation": "AL",
+    "id": 1,
+    "policy": "No post-election auditing practices.",
+    "reverse-outcome": "No",
+    "last-updated": "2019",
+    "grade": "F",
+    "sources": [],
+    "results": {
+      "2000": {
+        "total_votes": 1672551,
+        "republican_votes": 944409,
+        "democrat_votes": 695602,
+        "other_votes": 32540,
+        "margin": 0.14875899150459387
+      },
+      "2004": {
+        "total_votes": 1883415,
+        "republican_votes": 1176394,
+        "democrat_votes": 693933,
+        "other_votes": 13088,
+        "margin": 0.25616287435323604
+      },
+      "2008": {
+        "total_votes": 2099819,
+        "republican_votes": 1266546,
+        "democrat_votes": 813479,
+        "other_votes": 19794,
+        "margin": 0.21576478734595697
+      },
+      "2012": {
+        "total_votes": 2070353,
+        "republican_votes": 1255925,
+        "democrat_votes": 795696,
+        "other_votes": 18732,
+        "margin": 0.22229494197366342
+      },
+      "2016": {
+        "total_votes": 2123367,
+        "republican_votes": 1318250,
+        "democrat_votes": 729547,
+        "other_votes": 75570,
+        "margin": 0.2772497641717141
+      }
+    }
+  },
+  {
+    "name": "Alaska",
+    "abbreviation": "AK",
+    "id": 2,
+    "policy": "Mandatory hand count of one randomly selected precinct in each of its 40 house districts that accounts for at least 5% of votes in the district. A discrepancy of more than 1% requires a hand recount of the entire district. Audit does not include UOCAVA ballots.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2019",
+    "grade": "C",
+    "sources": [
+      "https://cdn.americanprogress.org/content/uploads/2018/02/21105338/020118_ElectionSecurity-report11.pdf",
+      "https://ballotpedia.org/Election_governance_in_Alaska#Post-election_auditing"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 285530,
+        "republican_votes": 167398,
+        "democrat_votes": 79004,
+        "other_votes": 39128,
+        "margin": 0.3095786782474696
+      },
+      "2004": {
+        "total_votes": 488693,
+        "republican_votes": 292267,
+        "democrat_votes": 180365,
+        "other_votes": 16061,
+        "margin": 0.22898220355110468
+      },
+      "2008": {
+        "total_votes": 326197,
+        "republican_votes": 193841,
+        "democrat_votes": 123594,
+        "other_votes": 8762,
+        "margin": 0.21535145939416978
+      },
+      "2012": {
+        "total_votes": 300495,
+        "republican_votes": 164676,
+        "democrat_votes": 122640,
+        "other_votes": 13179,
+        "margin": 0.1398891828483003
+      },
+      "2016": {
+        "total_votes": 318398,
+        "republican_votes": 163387,
+        "democrat_votes": 116454,
+        "other_votes": 38557,
+        "margin": 0.14740356409273928
+      }
+    }
+  },
+  {
+    "name": "Arizona",
+    "abbreviation": "AZ",
+    "id": 4,
+    "policy": "Hand count in at least 2% or 2 precincts in each county, whichever is greater, randomly selected. Can escalate to reverse preliminary outcome. Parties must designate two election board workers for the audit to take place—that requirement has been met consistently by all counties.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2019",
+    "grade": "C",
+    "sources": [
+      "https://azsos.gov/sites/default/files/EPM_2019_FINAL.pdf"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 1534113,
+        "republican_votes": 781652,
+        "democrat_votes": 685341,
+        "other_votes": 67120,
+        "margin": 0.06277959967746835
+      },
+      "2004": {
+        "total_votes": 2012585,
+        "republican_votes": 1104294,
+        "democrat_votes": 893524,
+        "other_votes": 14767,
+        "margin": 0.10472601157218205
+      },
+      "2008": {
+        "total_votes": 2293475,
+        "republican_votes": 1230111,
+        "democrat_votes": 1034707,
+        "other_votes": 28657,
+        "margin": 0.0851999694786296
+      },
+      "2012": {
+        "total_votes": 2299254,
+        "republican_votes": 1233654,
+        "democrat_votes": 1025232,
+        "other_votes": 40368,
+        "margin": 0.09064766224175319
+      },
+      "2016": {
+        "total_votes": 2604277,
+        "republican_votes": 1252401,
+        "democrat_votes": 1161167,
+        "other_votes": 190709,
+        "margin": 0.03503237174847376
+      }
+    }
+  },
+  {
+    "name": "Arkansas",
+    "abbreviation": "AR",
+    "id": 5,
+    "policy": "No post-election auditing practices.",
+    "reverse-outcome": "No",
+    "last-updated": "2019",
+    "grade": "F",
+    "sources": [],
+    "results": {
+      "2000": {
+        "total_votes": 921781,
+        "republican_votes": 472940,
+        "democrat_votes": 422768,
+        "other_votes": 26073,
+        "margin": 0.05442941436197969
+      },
+      "2004": {
+        "total_votes": 1053694,
+        "republican_votes": 572770,
+        "democrat_votes": 468631,
+        "other_votes": 12293,
+        "margin": 0.09883229856106232
+      },
+      "2008": {
+        "total_votes": 1086617,
+        "republican_votes": 638017,
+        "democrat_votes": 422310,
+        "other_votes": 26290,
+        "margin": 0.19851244734805365
+      },
+      "2012": {
+        "total_votes": 1069468,
+        "republican_votes": 647744,
+        "democrat_votes": 394409,
+        "other_votes": 27315,
+        "margin": 0.23687945782389
+      },
+      "2016": {
+        "total_votes": 1129896,
+        "republican_votes": 684872,
+        "democrat_votes": 380494,
+        "other_votes": 64530,
+        "margin": 0.26938585498134343
+      }
+    }
+  },
+  {
+    "name": "California",
+    "abbreviation": "CA",
+    "id": 6,
+    "policy": "Mandatory hand count of 1% of precincts in each county, randomly selected. Counties may choose to perform an RLA with a 5% risk limit. No audits of ballots received before or after electiond day.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2020-06",
+    "grade": "B",
+    "sources": [
+      "https://www.sos.ca.gov/elections/risk-limiting-audits/",
+      "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB840",
+      "https://whowhatwhy.org/2017/10/30/new-california-law-strikes-blow-election-audits/",
+      "https://www.sos.ca.gov/elections/ovsta/frequently-requested-information/county-1-manual-tally-reports/"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 10965856,
+        "republican_votes": 4567429,
+        "democrat_votes": 5861203,
+        "other_votes": 537224,
+        "margin": 0.11798203441664745
+      },
+      "2004": {
+        "total_votes": 12383678,
+        "republican_votes": 5501496,
+        "democrat_votes": 6737355,
+        "other_votes": 144827,
+        "margin": 0.09979741075308968
+      },
+      "2008": {
+        "total_votes": 13561900,
+        "republican_votes": 5011781,
+        "democrat_votes": 8274473,
+        "other_votes": 275646,
+        "margin": 0.24057779514669772
+      },
+      "2012": {
+        "total_votes": 13038547,
+        "republican_votes": 4839958,
+        "democrat_votes": 7854285,
+        "other_votes": 344304,
+        "margin": 0.23118580620984838
+      },
+      "2016": {
+        "total_votes": 14181595,
+        "republican_votes": 4483810,
+        "democrat_votes": 8753788,
+        "other_votes": 943997,
+        "margin": 0.3010929306611844
+      }
+    }
+  },
+  {
+    "name": "Colorado",
+    "abbreviation": "CO",
+    "id": 8,
+    "policy": "Mandatory risk-limiting (ballot-level comparison in most counties) audit at a risk limit of 5%. Can reverse preliminary outcomes. There is a 1% risk limit for comparison audits in the 2020 Presidential Elections.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2020-06",
+    "grade": "A",
+    "sources": [
+      "https://www.sos.state.co.us/pubs/elections/"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 1741365,
+        "republican_votes": 883745,
+        "democrat_votes": 738227,
+        "other_votes": 119393,
+        "margin": 0.08356547880541988
+      },
+      "2004": {
+        "total_votes": 2129630,
+        "republican_votes": 1101255,
+        "democrat_votes": 1001732,
+        "other_votes": 26643,
+        "margin": 0.046732531003038084
+      },
+      "2008": {
+        "total_votes": 2401361,
+        "republican_votes": 1073589,
+        "democrat_votes": 1288576,
+        "other_votes": 39196,
+        "margin": 0.08952714731354428
+      },
+      "2012": {
+        "total_votes": 2569217,
+        "republican_votes": 1185050,
+        "democrat_votes": 1322998,
+        "other_votes": 61169,
+        "margin": 0.053692623083219516
+      },
+      "2016": {
+        "total_votes": 2780220,
+        "republican_votes": 1202484,
+        "democrat_votes": 1338870,
+        "other_votes": 238866,
+        "margin": 0.049055830114163625
+      }
+    }
+  },
+  {
+    "name": "Connecticut",
+    "abbreviation": "CT",
+    "id": 9,
+    "policy": "Mandatory hand count of 5% of voting precincts, randomly selected.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2020-06",
+    "grade": "C",
+    "sources": [
+      "https://portal.ct.gov/SOTS/Press-Releases/2019-Press-Releases/Election-Results-to-be-Audited-from-Selected-Polling-Locations-2019"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 1459525,
+        "republican_votes": 561094,
+        "democrat_votes": 816015,
+        "other_votes": 82416,
+        "margin": 0.17466024905363045
+      },
+      "2004": {
+        "total_votes": 1578769,
+        "republican_votes": 693826,
+        "democrat_votes": 857488,
+        "other_votes": 27455,
+        "margin": 0.1036643106116221
+      },
+      "2008": {
+        "total_votes": 1647085,
+        "republican_votes": 628041,
+        "democrat_votes": 1000291,
+        "other_votes": 18753,
+        "margin": 0.22600533670089887
+      },
+      "2012": {
+        "total_votes": 1604536,
+        "republican_votes": 654660,
+        "democrat_votes": 931040,
+        "other_votes": 18836,
+        "margin": 0.17224917359286424
+      },
+      "2016": {
+        "total_votes": 1644920,
+        "republican_votes": 673215,
+        "democrat_votes": 897572,
+        "other_votes": 74133,
+        "margin": 0.13639386717895094
+      }
+    }
+  },
+  {
+    "name": "Delaware",
+    "abbreviation": "DE",
+    "id": 10,
+    "policy": "Hand count the results from 1 randomly selectd voting device in each county. If the discrepency is more than 0.5% then all documentation related to the voting machine in question is to be reviewed by audit team and another voting machine from that county is radnomly audited.",
+    "reverse-outcome": "No",
+    "last-updated": "2020-06",
+    "grade": "D",
+    "sources": [
+      "https://regulations.delaware.gov/register/march2020/proposed/23%20DE%20Reg%20727%2003-01-20.html"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 327529,
+        "republican_votes": 137288,
+        "democrat_votes": 180068,
+        "other_votes": 10173,
+        "margin": 0.13061438834423822
+      },
+      "2004": {
+        "total_votes": 375170,
+        "republican_votes": 171651,
+        "democrat_votes": 200141,
+        "other_votes": 3378,
+        "margin": 0.07593890769517819
+      },
+      "2008": {
+        "total_votes": 412412,
+        "republican_votes": 152374,
+        "democrat_votes": 255459,
+        "other_votes": 4579,
+        "margin": 0.24995635432528637
+      },
+      "2012": {
+        "total_votes": 413937,
+        "republican_votes": 165484,
+        "democrat_votes": 242584,
+        "other_votes": 5869,
+        "margin": 0.18626022800571101
+      },
+      "2016": {
+        "total_votes": 442997,
+        "republican_votes": 185127,
+        "democrat_votes": 235603,
+        "other_votes": 22267,
+        "margin": 0.1139420808718795
+      }
+    }
+  },
+  {
+    "name": "District of Columbia",
+    "abbreviation": "DC",
+    "id": 11,
+    "policy": "Mandatory hand count of 5% of precincts and 5% of centrally tabulated votes. Can escalate to reverse preliminary outcomes if error rates are greater than .25%.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2019",
+    "grade": "C",
+    "sources": [
+      "https://code.dccouncil.us/dc/council/code/sections/1-1001.09a.html"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 201894,
+        "republican_votes": 18073,
+        "democrat_votes": 171923,
+        "other_votes": 11898,
+        "margin": 0.7620335423539085
+      },
+      "2004": {
+        "total_votes": 227586,
+        "republican_votes": 21256,
+        "democrat_votes": 202970,
+        "other_votes": 3360,
+        "margin": 0.7984410288857838
+      },
+      "2008": {
+        "total_votes": 265853,
+        "republican_votes": 17367,
+        "democrat_votes": 245800,
+        "other_votes": 2686,
+        "margin": 0.8592455229017539
+      },
+      "2012": {
+        "total_votes": 293764,
+        "republican_votes": 21381,
+        "democrat_votes": 267070,
+        "other_votes": 5313,
+        "margin": 0.8363482251058673
+      },
+      "2016": {
+        "total_votes": 311268,
+        "republican_votes": 12723,
+        "democrat_votes": 282830,
+        "other_votes": 15715,
+        "margin": 0.867763470706915
+      }
+    }
+  },
+  {
+    "name": "Florida",
+    "abbreviation": "FL",
+    "id": 12,
+    "policy": "Manually audit at least 1% of ballots in no more than 2% of precincts, or automated audit of all ballots in 20% of precincts.",
+    "reverse-outcome": "Unclear",
+    "last-updated": "2020-06",
+    "grade": "D",
+    "sources": [
+      "https://www.myfloridaelections.com/portals/fsase/documents/fsase_canv_bd_workshop_vickidavis.pdf",
+      "https://dos.myflorida.com/media/694206/de-guide-0011-post-election-audit-procedure-summary.pdf"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 5960660,
+        "republican_votes": 2911215,
+        "democrat_votes": 2911417,
+        "other_votes": 138028,
+        "margin": 3.388886465592736e-05
+      },
+      "2004": {
+        "total_votes": 7609810,
+        "republican_votes": 3964522,
+        "democrat_votes": 3583544,
+        "other_votes": 61744,
+        "margin": 0.050064062046227174
+      },
+      "2008": {
+        "total_votes": 8391639,
+        "republican_votes": 4046212,
+        "democrat_votes": 4282366,
+        "other_votes": 63061,
+        "margin": 0.028141582353578366
+      },
+      "2012": {
+        "total_votes": 8474179,
+        "republican_votes": 4163447,
+        "democrat_votes": 4237756,
+        "other_votes": 72976,
+        "margin": 0.008768873067231646
+      },
+      "2016": {
+        "total_votes": 9420039,
+        "republican_votes": 4617886,
+        "democrat_votes": 4504975,
+        "other_votes": 297178,
+        "margin": 0.011986256107856879
+      }
+    }
+  },
+  {
+    "name": "Georgia",
+    "abbreviation": "GA",
+    "id": 13,
+    "policy": "Currently piloting RLA. To be mandatory after November 2020.",
+    "reverse-outcome": "No",
+    "last-updated": "2020-06",
+    "grade": "B",
+    "sources": [
+      "https://sos.ga.gov/index.php/elections/secretary_of_state_proposes_rules_for_election_audit_transparency",
+      "https://sos.ga.gov/index.php/elections/risk-limiting_audit_concludes_paper-ballot_system_accurate"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 2596804,
+        "republican_votes": 1419720,
+        "democrat_votes": 1116230,
+        "other_votes": 60854,
+        "margin": 0.11687058399478743
+      },
+      "2004": {
+        "total_votes": 3298790,
+        "republican_votes": 1914254,
+        "democrat_votes": 1366149,
+        "other_votes": 18387,
+        "margin": 0.16615334713637425
+      },
+      "2008": {
+        "total_votes": 3925278,
+        "republican_votes": 2048744,
+        "democrat_votes": 1844137,
+        "other_votes": 32397,
+        "margin": 0.052125480029694714
+      },
+      "2012": {
+        "total_votes": 3900050,
+        "republican_votes": 2078688,
+        "democrat_votes": 1773827,
+        "other_votes": 47535,
+        "margin": 0.07816848501942283
+      },
+      "2016": {
+        "total_votes": 4114711,
+        "republican_votes": 2089104,
+        "democrat_votes": 1877963,
+        "other_votes": 147644,
+        "margin": 0.05131368885931478
+      }
+    }
+  },
+  {
+    "name": "Hawaii",
+    "abbreviation": "HI",
+    "id": 15,
+    "policy": "Mandatory hand count in 10% of precincts, randomly selected.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2019",
+    "grade": "C",
+    "sources": [
+      "https://elections.hawaii.gov/election-security/"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 367871,
+        "republican_votes": 137819,
+        "democrat_votes": 205242,
+        "other_votes": 24810,
+        "margin": 0.18327892114355304
+      },
+      "2004": {
+        "total_votes": 428555,
+        "republican_votes": 194116,
+        "democrat_votes": 231335,
+        "other_votes": 3104,
+        "margin": 0.08684766249372892
+      },
+      "2008": {
+        "total_votes": 452742,
+        "republican_votes": 120429,
+        "democrat_votes": 325201,
+        "other_votes": 7112,
+        "margin": 0.4522929173789929
+      },
+      "2012": {
+        "total_votes": 434221,
+        "republican_votes": 120937,
+        "democrat_votes": 306266,
+        "other_votes": 7018,
+        "margin": 0.42680800790380935
+      },
+      "2016": {
+        "total_votes": 428937,
+        "republican_votes": 128847,
+        "democrat_votes": 266891,
+        "other_votes": 33199,
+        "margin": 0.3218281472570564
+      }
+    }
+  },
+  {
+    "name": "Idaho",
+    "abbreviation": "ID",
+    "id": 16,
+    "policy": "No mandatory post-election auditing practices.",
+    "reverse-outcome": "No",
+    "last-updated": "2019",
+    "grade": "F",
+    "sources": [],
+    "results": {
+      "2000": {
+        "total_votes": 501621,
+        "republican_votes": 336937,
+        "democrat_votes": 138637,
+        "other_votes": 26047,
+        "margin": 0.39531837781911044
+      },
+      "2004": {
+        "total_votes": 598376,
+        "republican_votes": 409235,
+        "democrat_votes": 181098,
+        "other_votes": 8043,
+        "margin": 0.3812602778186291
+      },
+      "2008": {
+        "total_votes": 655032,
+        "republican_votes": 403012,
+        "democrat_votes": 236440,
+        "other_votes": 15580,
+        "margin": 0.25429597332649395
+      },
+      "2012": {
+        "total_votes": 652274,
+        "republican_votes": 420911,
+        "democrat_votes": 212787,
+        "other_votes": 18576,
+        "margin": 0.3190744993668305
+      },
+      "2016": {
+        "total_votes": 690433,
+        "republican_votes": 409055,
+        "democrat_votes": 189765,
+        "other_votes": 91613,
+        "margin": 0.31761228098888666
+      }
+    }
+  },
+  {
+    "name": "Illinois",
+    "abbreviation": "IL",
+    "id": 17,
+    "policy": "Audit in 5% of precincts in each county—the audit is permitted to be conducted electronically through retabulation or rescans which makes it vulnerable to hacking.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2019",
+    "grade": "F",
+    "sources": [
+      "https://www.ncsl.org/research/elections-and-campaigns/post-election-audits635926066.aspx"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 4742123,
+        "republican_votes": 2019421,
+        "democrat_votes": 2589026,
+        "other_votes": 133676,
+        "margin": 0.12011603241839151
+      },
+      "2004": {
+        "total_votes": 5275415,
+        "republican_votes": 2346608,
+        "democrat_votes": 2891989,
+        "other_votes": 36818,
+        "margin": 0.1033816296916925
+      },
+      "2008": {
+        "total_votes": 5523051,
+        "republican_votes": 2031527,
+        "democrat_votes": 3419673,
+        "other_votes": 71851,
+        "margin": 0.25133680641370143
+      },
+      "2012": {
+        "total_votes": 5241891,
+        "republican_votes": 2135102,
+        "democrat_votes": 3019512,
+        "other_votes": 87277,
+        "margin": 0.1687196471654981
+      },
+      "2016": {
+        "total_votes": 5558707,
+        "republican_votes": 2146015,
+        "democrat_votes": 3090729,
+        "other_votes": 321963,
+        "margin": 0.16995211296439983
+      }
+    }
+  },
+  {
+    "name": "Indiana",
+    "abbreviation": "IN",
+    "id": 18,
+    "policy": "No mandatory post-election audit. Piloting RLA's before 2020 elections. Audits can be requested by either political party’s county chairman and would consist of either 5% or 5 precincts whichever is larger. The use of paperless DRE machines in many counties undermines any auditing capabilities. Conducted a risk-limiting audit pilot in Marion county (which uses paper ballots) during the 2018 primary.",
+    "reverse-outcome": "No",
+    "last-updated": "2019",
+    "grade": "D",
+    "sources": [
+      "https://www.ncsl.org/research/elections-and-campaigns/post-election-audits635926066.aspx"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 2199305,
+        "republican_votes": 1245836,
+        "democrat_votes": 901980,
+        "other_votes": 51489,
+        "margin": 0.15634757343797245
+      },
+      "2004": {
+        "total_votes": 2468002,
+        "republican_votes": 1479438,
+        "democrat_votes": 969011,
+        "other_votes": 19553,
+        "margin": 0.20681790371320607
+      },
+      "2008": {
+        "total_votes": 2751054,
+        "republican_votes": 1345648,
+        "democrat_votes": 1374039,
+        "other_votes": 31367,
+        "margin": 0.010320044608357379
+      },
+      "2012": {
+        "total_votes": 2624534,
+        "republican_votes": 1420543,
+        "democrat_votes": 1152887,
+        "other_votes": 51104,
+        "margin": 0.10198229476166054
+      },
+      "2016": {
+        "total_votes": 2734958,
+        "republican_votes": 1557286,
+        "democrat_votes": 1033126,
+        "other_votes": 144546,
+        "margin": 0.19165193761659227
+      }
+    }
+  },
+  {
+    "name": "Iowa",
+    "abbreviation": "IA",
+    "id": 19,
+    "policy": "Policy: Mandatory hand count. State comissioner determines number of precincts.",
+    "reverse-outcome": "No",
+    "last-updated": "2020-06",
+    "grade": "D",
+    "sources": [
+      "https://www.legis.iowa.gov/docs/code/50.51.pdf"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 1315563,
+        "republican_votes": 634373,
+        "democrat_votes": 638517,
+        "other_votes": 42673,
+        "margin": 0.003149982174931949
+      },
+      "2004": {
+        "total_votes": 1506908,
+        "republican_votes": 751957,
+        "democrat_votes": 741898,
+        "other_votes": 13053,
+        "margin": 0.006675258210852952
+      },
+      "2008": {
+        "total_votes": 1536820,
+        "republican_votes": 682379,
+        "democrat_votes": 828940,
+        "other_votes": 25501,
+        "margin": 0.09536640595515415
+      },
+      "2012": {
+        "total_votes": 1582180,
+        "republican_votes": 730617,
+        "democrat_votes": 822544,
+        "other_votes": 29019,
+        "margin": 0.0581014802361299
+      },
+      "2016": {
+        "total_votes": 1566031,
+        "republican_votes": 800983,
+        "democrat_votes": 653669,
+        "other_votes": 111379,
+        "margin": 0.09406838051098605
+      }
+    }
+  },
+  {
+    "name": "Kansas",
+    "abbreviation": "KS",
+    "id": 20,
+    "policy": "Mandatory hand count in 1% of precincts in each county—precincts randomly selected. However, the continued use of paperless voting machines in some jurisdictions will hamper the effectiveness of the audit.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2020-06",
+    "grade": "C",
+    "sources": [
+      "http://www.kslegislature.org/li/b2019_20/statute//025_000_0000_chapter/025_030_0000_article/025_030_0009_section/025_030_0009_k/"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 1072216,
+        "republican_votes": 622332,
+        "democrat_votes": 399276,
+        "other_votes": 50608,
+        "margin": 0.20803270982712438
+      },
+      "2004": {
+        "total_votes": 1187756,
+        "republican_votes": 736456,
+        "democrat_votes": 434993,
+        "other_votes": 16307,
+        "margin": 0.2538088630998286
+      },
+      "2008": {
+        "total_votes": 1235872,
+        "republican_votes": 699655,
+        "democrat_votes": 514765,
+        "other_votes": 21452,
+        "margin": 0.14960287149478263
+      },
+      "2012": {
+        "total_votes": 1156254,
+        "republican_votes": 689809,
+        "democrat_votes": 439908,
+        "other_votes": 26537,
+        "margin": 0.21612984690215126
+      },
+      "2016": {
+        "total_votes": 1184403,
+        "republican_votes": 671018,
+        "democrat_votes": 427005,
+        "other_votes": 86380,
+        "margin": 0.20602193679009595
+      }
+    }
+  },
+  {
+    "name": "Kentucky",
+    "abbreviation": "KY",
+    "id": 21,
+    "policy": "State conducts mandatory post-election “audits” in 5% of counties. These audits consist of interviewing county election officials and reviewing various forms. They have a law on the books that would conduct an audit to confirm the accuracy of election results but they don’t seem to use it.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2020-06",
+    "grade": "D",
+    "sources": [
+      "https://www.ncsl.org/research/elections-and-campaigns/post-election-audits635926066.aspx"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 1544187,
+        "republican_votes": 872492,
+        "democrat_votes": 638898,
+        "other_votes": 32797,
+        "margin": 0.15127312948496524
+      },
+      "2004": {
+        "total_votes": 1795860,
+        "republican_votes": 1069439,
+        "democrat_votes": 712733,
+        "other_votes": 13688,
+        "margin": 0.1986268417359928
+      },
+      "2008": {
+        "total_votes": 1826508,
+        "republican_votes": 1048462,
+        "democrat_votes": 751985,
+        "other_votes": 26061,
+        "margin": 0.16231902625118533
+      },
+      "2012": {
+        "total_votes": 1797212,
+        "republican_votes": 1087190,
+        "democrat_votes": 679370,
+        "other_votes": 30652,
+        "margin": 0.22691813764875818
+      },
+      "2016": {
+        "total_votes": 1924149,
+        "republican_votes": 1202971,
+        "democrat_votes": 628854,
+        "other_votes": 92324,
+        "margin": 0.29837450218252326
+      }
+    }
+  },
+  {
+    "name": "Louisiana",
+    "abbreviation": "LA",
+    "id": 22,
+    "policy": "No post-election auditing practices.",
+    "reverse-outcome": "No",
+    "last-updated": "2019",
+    "grade": "F",
+    "sources": [],
+    "results": {
+      "2000": {
+        "total_votes": 1765656,
+        "republican_votes": 927871,
+        "democrat_votes": 792344,
+        "other_votes": 45441,
+        "margin": 0.07675730719913731
+      },
+      "2004": {
+        "total_votes": 1943106,
+        "republican_votes": 1102169,
+        "democrat_votes": 820299,
+        "other_votes": 20638,
+        "margin": 0.14506156637877707
+      },
+      "2008": {
+        "total_votes": 1959085,
+        "republican_votes": 1148015,
+        "democrat_votes": 781574,
+        "other_votes": 29496,
+        "margin": 0.1870470142949387
+      },
+      "2012": {
+        "total_votes": 1994065,
+        "republican_votes": 1152262,
+        "democrat_votes": 809141,
+        "other_votes": 32662,
+        "margin": 0.17207112105172098
+      },
+      "2016": {
+        "total_votes": 2029032,
+        "republican_votes": 1178638,
+        "democrat_votes": 780154,
+        "other_votes": 70240,
+        "margin": 0.19639118555054824
+      }
+    }
+  },
+  {
+    "name": "Maine",
+    "abbreviation": "ME",
+    "id": 23,
+    "policy": "No post-election auditing practices.",
+    "reverse-outcome": "No",
+    "last-updated": "2019",
+    "grade": "F",
+    "sources": [],
+    "results": {
+      "2000": {
+        "total_votes": 651817,
+        "republican_votes": 286616,
+        "democrat_votes": 319951,
+        "other_votes": 45250,
+        "margin": 0.0511416547896112
+      },
+      "2004": {
+        "total_votes": 686510,
+        "republican_votes": 308997,
+        "democrat_votes": 364153,
+        "other_votes": 13360,
+        "margin": 0.08034260243842041
+      },
+      "2008": {
+        "total_votes": 731163,
+        "republican_votes": 295273,
+        "democrat_votes": 421923,
+        "other_votes": 13967,
+        "margin": 0.17321718960067728
+      },
+      "2012": {
+        "total_votes": 713180,
+        "republican_votes": 292276,
+        "democrat_votes": 401306,
+        "other_votes": 19598,
+        "margin": 0.15287865615973528
+      },
+      "2016": {
+        "total_votes": 747927,
+        "republican_votes": 335593,
+        "democrat_votes": 357735,
+        "other_votes": 54599,
+        "margin": 0.029604493486663806
+      }
+    }
+  },
+  {
+    "name": "Maryland",
+    "abbreviation": "MD",
+    "id": 24,
+    "policy": "Mandatory hand count of at least 2% of precincts. Mandatory post-election audits in 5% of all precincts, randomly selected. Audits consist of using software to inspect ballot images for discrepancies—this is subject to hacking and is not a robust system.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2020-06",
+    "grade": "C",
+    "sources": [
+      "http://mgaleg.maryland.gov/2018RS/chapters_noln/Ch_523_hb1278E.pdf"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 2025480,
+        "republican_votes": 813797,
+        "democrat_votes": 1145782,
+        "other_votes": 65901,
+        "margin": 0.1639043584730533
+      },
+      "2004": {
+        "total_votes": 2386678,
+        "republican_votes": 1024703,
+        "democrat_votes": 1334493,
+        "other_votes": 27482,
+        "margin": 0.12979966296249432
+      },
+      "2008": {
+        "total_votes": 2631596,
+        "republican_votes": 959862,
+        "democrat_votes": 1629467,
+        "other_votes": 42267,
+        "margin": 0.2544482511753324
+      },
+      "2012": {
+        "total_votes": 2707327,
+        "republican_votes": 971869,
+        "democrat_votes": 1677844,
+        "other_votes": 57614,
+        "margin": 0.26076458440373107
+      },
+      "2016": {
+        "total_votes": 2781446,
+        "republican_votes": 943169,
+        "democrat_votes": 1677928,
+        "other_votes": 160349,
+        "margin": 0.26416439506645106
+      }
+    }
+  },
+  {
+    "name": "Massachusetts",
+    "abbreviation": "MA",
+    "id": 25,
+    "policy": "Mandatory hand count following presidential elections in 3% of all precincts, randomly selected.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2019",
+    "grade": "C",
+    "sources": [
+      "https://www.sec.state.ma.us/ele/elepostelection/postelectionauditreport.htm"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 2702984,
+        "republican_votes": 878502,
+        "democrat_votes": 1616487,
+        "other_votes": 207995,
+        "margin": 0.27302603345043847
+      },
+      "2004": {
+        "total_votes": 2912388,
+        "republican_votes": 1071109,
+        "democrat_votes": 1803800,
+        "other_votes": 37479,
+        "margin": 0.25157739971459847
+      },
+      "2008": {
+        "total_votes": 3081336,
+        "republican_votes": 1108885,
+        "democrat_votes": 1904103,
+        "other_votes": 68348,
+        "margin": 0.2580757178055233
+      },
+      "2012": {
+        "total_votes": 3167767,
+        "republican_votes": 1188314,
+        "democrat_votes": 1921290,
+        "other_votes": 58163,
+        "margin": 0.2313857048198305
+      },
+      "2016": {
+        "total_votes": 3274555,
+        "republican_votes": 1090893,
+        "democrat_votes": 1995196,
+        "other_votes": 188466,
+        "margin": 0.2761605775441243
+      }
+    }
+  },
+  {
+    "name": "Michigan",
+    "abbreviation": "MI",
+    "id": 26,
+    "policy": "Passed ballot proposal in 2018 to require post-election audits. Unclear how it will be implemented—in the past it has audited 300 out of 4800 precincts. Currently piloting the largest known RLA implementation.",
+    "reverse-outcome": "No",
+    "last-updated": "2020-06",
+    "grade": "B",
+    "sources": [
+      "https://www.brennancenter.org/our-work/research-reports/review-robust-post-election-audits"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 4232711,
+        "republican_votes": 1953139,
+        "democrat_votes": 2170418,
+        "other_votes": 109154,
+        "margin": 0.05133329442997644
+      },
+      "2004": {
+        "total_votes": 4839252,
+        "republican_votes": 2313746,
+        "democrat_votes": 2479183,
+        "other_votes": 46323,
+        "margin": 0.034186481712463
+      },
+      "2008": {
+        "total_votes": 5001766,
+        "republican_votes": 2048639,
+        "democrat_votes": 2872579,
+        "other_votes": 80548,
+        "margin": 0.16472981742848425
+      },
+      "2012": {
+        "total_votes": 4730961,
+        "republican_votes": 2115256,
+        "democrat_votes": 2564569,
+        "other_votes": 51136,
+        "margin": 0.09497288183098529
+      },
+      "2016": {
+        "total_votes": 4799284,
+        "republican_votes": 2279543,
+        "democrat_votes": 2268839,
+        "other_votes": 250902,
+        "margin": 0.002230332691293118
+      }
+    }
+  },
+  {
+    "name": "Minnesota",
+    "abbreviation": "MN",
+    "id": 27,
+    "policy": "Mandatory hand count of precincts in each county. Can escalate to reverse preliminary outcomes. The number of precincts to be audited varies by the number of registered voters in the county: • In a county with fewer than 50,000 registered voters, a total of at least 2 precincts must be audited.• In a county with between 50,000 and 100,000 registered voters, a total of at least 3 precincts must be audited.• In a county with more than 100,000 registered voters at least 4 precincts, or 3% of all precincts, whichever is greater, must be audited.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2019",
+    "grade": "C",
+    "sources": [
+      "https://www.sos.state.mn.us/media/2304/minnesota-election-laws-statutes-and-rules.pdf"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 2438685,
+        "republican_votes": 1109659,
+        "democrat_votes": 1168266,
+        "other_votes": 160760,
+        "margin": 0.02403221408258959
+      },
+      "2004": {
+        "total_votes": 2827850,
+        "republican_votes": 1346451,
+        "democrat_votes": 1444751,
+        "other_votes": 36648,
+        "margin": 0.03476139116289761
+      },
+      "2008": {
+        "total_votes": 2910369,
+        "republican_votes": 1275409,
+        "democrat_votes": 1573354,
+        "other_votes": 61606,
+        "margin": 0.10237361654140764
+      },
+      "2012": {
+        "total_votes": 2936561,
+        "republican_votes": 1320225,
+        "democrat_votes": 1546167,
+        "other_votes": 70169,
+        "margin": 0.07694102046577612
+      },
+      "2016": {
+        "total_votes": 2944813,
+        "republican_votes": 1322951,
+        "democrat_votes": 1367716,
+        "other_votes": 254146,
+        "margin": 0.015201304802715827
+      }
+    }
+  },
+  {
+    "name": "Mississippi",
+    "abbreviation": "MS",
+    "id": 28,
+    "policy": "No post-election auditing practices.",
+    "reverse-outcome": "No",
+    "last-updated": "2019",
+    "grade": "F",
+    "sources": [],
+    "results": {
+      "2000": {
+        "total_votes": 994926,
+        "republican_votes": 573230,
+        "democrat_votes": 404964,
+        "other_votes": 16732,
+        "margin": 0.16912413586538094
+      },
+      "2004": {
+        "total_votes": 1114859,
+        "republican_votes": 666295,
+        "democrat_votes": 440034,
+        "other_votes": 8530,
+        "margin": 0.2029503282477874
+      },
+      "2008": {
+        "total_votes": 1285259,
+        "republican_votes": 724497,
+        "democrat_votes": 554662,
+        "other_votes": 6100,
+        "margin": 0.13214068137239265
+      },
+      "2012": {
+        "total_votes": 1285584,
+        "republican_votes": 710746,
+        "democrat_votes": 562949,
+        "other_votes": 11889,
+        "margin": 0.1149648719959178
+      },
+      "2016": {
+        "total_votes": 1209357,
+        "republican_votes": 700714,
+        "democrat_votes": 485131,
+        "other_votes": 23512,
+        "margin": 0.1782624981705154
+      }
+    }
+  },
+  {
+    "name": "Missouri",
+    "abbreviation": "MO",
+    "id": 29,
+    "policy": "Mandatory hand count of 5% of all precincts, randomly selected.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2019",
+    "grade": "C",
+    "sources": [
+      "https://www.ncsl.org/research/elections-and-campaigns/post-election-audits635926066.aspx"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 2359892,
+        "republican_votes": 1189924,
+        "democrat_votes": 1111138,
+        "other_votes": 58830,
+        "margin": 0.03338542611272041
+      },
+      "2004": {
+        "total_votes": 2731364,
+        "republican_votes": 1455713,
+        "democrat_votes": 1259171,
+        "other_votes": 16480,
+        "margin": 0.07195745422433626
+      },
+      "2008": {
+        "total_votes": 2925205,
+        "republican_votes": 1445814,
+        "democrat_votes": 1441911,
+        "other_votes": 37480,
+        "margin": 0.0013342654617368697
+      },
+      "2012": {
+        "total_votes": 2757312,
+        "republican_votes": 1482440,
+        "democrat_votes": 1223796,
+        "other_votes": 51076,
+        "margin": 0.09380295011953671
+      },
+      "2016": {
+        "total_votes": 2807381,
+        "republican_votes": 1594511,
+        "democrat_votes": 1071068,
+        "other_votes": 141802,
+        "margin": 0.18645242665673095
+      }
+    }
+  },
+  {
+    "name": "Montana",
+    "abbreviation": "MT",
+    "id": 30,
+    "policy": "Mandatory hand count in 1 precinct or 5% of precincts, whichever is greater, randomly selected, in each county that uses ballot tabulators (counties that hand count ballots do not need to audit).",
+    "reverse-outcome": "Yes",
+    "last-updated": "2020-06",
+    "grade": "C",
+    "sources": [
+      "https://sosmt.gov/elections/resources/"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 410986,
+        "republican_votes": 240178,
+        "democrat_votes": 137126,
+        "other_votes": 33682,
+        "margin": 0.25074333432282364
+      },
+      "2004": {
+        "total_votes": 450434,
+        "republican_votes": 266063,
+        "democrat_votes": 173710,
+        "other_votes": 10661,
+        "margin": 0.20503114773751538
+      },
+      "2008": {
+        "total_votes": 496072,
+        "republican_votes": 243860,
+        "democrat_votes": 232156,
+        "other_votes": 20056,
+        "margin": 0.023593349352513344
+      },
+      "2012": {
+        "total_votes": 483932,
+        "republican_votes": 267928,
+        "democrat_votes": 201839,
+        "other_votes": 14165,
+        "margin": 0.13656670771926635
+      },
+      "2016": {
+        "total_votes": 497147,
+        "republican_votes": 279240,
+        "democrat_votes": 177709,
+        "other_votes": 40198,
+        "margin": 0.2042273210941633
+      }
+    }
+  },
+  {
+    "name": "Nebraska",
+    "abbreviation": "NE",
+    "id": 31,
+    "policy": "If secretary of state asks for it, the state randomly selects between two and two and a half percent of precincts to be tested. Votes cast in one federal race, one state race and one local race are hand counted and compared to the machine tabulations for the same races in those precincts.",
+    "reverse-outcome": "Unclear",
+    "last-updated": "2020-06",
+    "grade": "D",
+    "sources": [
+      "https://sos.nebraska.gov/elections/nebraska-election-security"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 697019,
+        "republican_votes": 433862,
+        "democrat_votes": 231780,
+        "other_votes": 31377,
+        "margin": 0.2899232302132367
+      },
+      "2004": {
+        "total_votes": 778186,
+        "republican_votes": 512814,
+        "democrat_votes": 254328,
+        "other_votes": 11044,
+        "margin": 0.33216480378726937
+      },
+      "2008": {
+        "total_votes": 801281,
+        "republican_votes": 452979,
+        "democrat_votes": 333319,
+        "other_votes": 14983,
+        "margin": 0.14933587592866923
+      },
+      "2012": {
+        "total_votes": 794379,
+        "republican_votes": 475064,
+        "democrat_votes": 302081,
+        "other_votes": 17234,
+        "margin": 0.21775877761119064
+      },
+      "2016": {
+        "total_votes": 844227,
+        "republican_votes": 495961,
+        "democrat_votes": 284494,
+        "other_votes": 63772,
+        "margin": 0.2504859474999023
+      }
+    }
+  },
+  {
+    "name": "Nevada",
+    "abbreviation": "NV",
+    "id": 32,
+    "policy": "Piloting RLA for the 2020 general elections. All counties will have to conduct mandatory RLA's in 2022. Risk limit is unclear.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2020-06",
+    "grade": "B",
+    "sources": [
+      "https://www.leg.state.nv.us/Session/80th2019/Bills/SB/SB123_R3.pdf"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 608970,
+        "republican_votes": 301575,
+        "democrat_votes": 279978,
+        "other_votes": 27417,
+        "margin": 0.03546480122173506
+      },
+      "2004": {
+        "total_votes": 829587,
+        "republican_votes": 418690,
+        "democrat_votes": 397190,
+        "other_votes": 13707,
+        "margin": 0.025916510263540773
+      },
+      "2008": {
+        "total_votes": 967848,
+        "republican_votes": 412827,
+        "democrat_votes": 533736,
+        "other_votes": 21285,
+        "margin": 0.1249256081533464
+      },
+      "2012": {
+        "total_votes": 1014918,
+        "republican_votes": 463567,
+        "democrat_votes": 531373,
+        "other_votes": 19978,
+        "margin": 0.06680933829136936
+      },
+      "2016": {
+        "total_votes": 1125385,
+        "republican_votes": 512058,
+        "democrat_votes": 539260,
+        "other_votes": 74067,
+        "margin": 0.02417128360516623
+      }
+    }
+  },
+  {
+    "name": "New Hampshire",
+    "abbreviation": "NH",
+    "id": 33,
+    "policy": "No post-election auditing practices.",
+    "reverse-outcome": "No",
+    "last-updated": "2019",
+    "grade": "F",
+    "sources": [],
+    "results": {
+      "2000": {
+        "total_votes": 569081,
+        "republican_votes": 273559,
+        "democrat_votes": 266348,
+        "other_votes": 29174,
+        "margin": 0.012671306896557783
+      },
+      "2004": {
+        "total_votes": 677662,
+        "republican_votes": 331237,
+        "democrat_votes": 340511,
+        "other_votes": 5914,
+        "margin": 0.0136852885361729
+      },
+      "2008": {
+        "total_votes": 710970,
+        "republican_votes": 316534,
+        "democrat_votes": 384826,
+        "other_votes": 9610,
+        "margin": 0.0960546858517237
+      },
+      "2012": {
+        "total_votes": 710931,
+        "republican_votes": 329918,
+        "democrat_votes": 369561,
+        "other_votes": 11452,
+        "margin": 0.05576209224242578
+      },
+      "2016": {
+        "total_votes": 744296,
+        "republican_votes": 345790,
+        "democrat_votes": 348526,
+        "other_votes": 49980,
+        "margin": 0.0036759568773713685
+      }
+    }
+  },
+  {
+    "name": "New Jersey",
+    "abbreviation": "NJ",
+    "id": 34,
+    "policy": "Mandatory audit of 2% of election districts. Audits must ensure with at least 99% confidence that a 100% manual recount would not change the result. An RLA pilot was conducted in Jan 2020.",
+    "reverse-outcome": "No",
+    "last-updated": "2020-06",
+    "grade": "C",
+    "sources": [
+      "https://nj.gov/state/dos-statutes-elections-19-60-63.shtml#ele_19_61_9"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 3187226,
+        "republican_votes": 1284173,
+        "democrat_votes": 1788850,
+        "other_votes": 114203,
+        "margin": 0.1583436505600795
+      },
+      "2004": {
+        "total_votes": 3609691,
+        "republican_votes": 1668003,
+        "democrat_votes": 1911430,
+        "other_votes": 30258,
+        "margin": 0.06743707425372421
+      },
+      "2008": {
+        "total_votes": 3838498,
+        "republican_votes": 1613207,
+        "democrat_votes": 2215422,
+        "other_votes": 9869,
+        "margin": 0.1568881890781238
+      },
+      "2012": {
+        "total_votes": 3640292,
+        "republican_votes": 1477568,
+        "democrat_votes": 2125101,
+        "other_votes": 37623,
+        "margin": 0.17787941187135536
+      },
+      "2016": {
+        "total_votes": 3874046,
+        "republican_votes": 1601933,
+        "democrat_votes": 2148278,
+        "other_votes": 123835,
+        "margin": 0.14102697799664743
+      }
+    }
+  },
+  {
+    "name": "New Mexico",
+    "abbreviation": "NM",
+    "id": 35,
+    "policy": "Language in law calls for an audit that ensures with 90% probability that “faulty tabulators” would be detected if they changed the outcome of an election. Unclear if the current procedure truly achieves that—Philip Stark pointed out a number of issues including the audit “hardwiring” sample sizes.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2019",
+    "grade": "C",
+    "sources": [
+      "https://www.eac.gov/countdown18-ensuring-accuracy----new-mexico"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 598605,
+        "republican_votes": 286417,
+        "democrat_votes": 286783,
+        "other_votes": 25405,
+        "margin": 0.0006114215551156439
+      },
+      "2004": {
+        "total_votes": 756304,
+        "republican_votes": 376930,
+        "democrat_votes": 370942,
+        "other_votes": 8432,
+        "margin": 0.007917451183651019
+      },
+      "2008": {
+        "total_votes": 830158,
+        "republican_votes": 346832,
+        "democrat_votes": 472422,
+        "other_votes": 10904,
+        "margin": 0.15128445428460607
+      },
+      "2012": {
+        "total_votes": 783758,
+        "republican_votes": 335788,
+        "democrat_votes": 415335,
+        "other_votes": 32635,
+        "margin": 0.10149433881376649
+      },
+      "2016": {
+        "total_votes": 798319,
+        "republican_votes": 319667,
+        "democrat_votes": 385234,
+        "other_votes": 93418,
+        "margin": 0.08213132845391379
+      }
+    }
+  },
+  {
+    "name": "New York",
+    "abbreviation": "NY",
+    "id": 36,
+    "policy": "Mandatory audit of 3% of voting machines in each county. Audit can be either a hand count or electronic retabulation.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2019",
+    "grade": "C",
+    "sources": [
+      "https://www.nysenate.gov/legislation/laws/ELN/9-211"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 6821999,
+        "republican_votes": 2403374,
+        "democrat_votes": 4107697,
+        "other_votes": 310928,
+        "margin": 0.24982750657102118
+      },
+      "2004": {
+        "total_votes": 7391036,
+        "republican_votes": 2806993,
+        "democrat_votes": 4180755,
+        "other_votes": 403288,
+        "margin": 0.18586866577297148
+      },
+      "2008": {
+        "total_votes": 7591233,
+        "republican_votes": 2742298,
+        "democrat_votes": 4769700,
+        "other_votes": 79235,
+        "margin": 0.2670715020866834
+      },
+      "2012": {
+        "total_votes": 7061925,
+        "republican_votes": 2223397,
+        "democrat_votes": 4324228,
+        "other_votes": 514300,
+        "margin": 0.2974870166420629
+      },
+      "2016": {
+        "total_votes": 7707363,
+        "republican_votes": 2814589,
+        "democrat_votes": 4547562,
+        "other_votes": 345212,
+        "margin": 0.22484642282970194
+      }
+    }
+  },
+  {
+    "name": "North Carolina",
+    "abbreviation": "NC",
+    "id": 37,
+    "policy": "Mandatory manual hand count of a number of randomly selected precincts determined in a consultation with a statistician.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2019",
+    "grade": "C",
+    "sources": [
+      "https://www.aspentechpolicyhub.org/wp-content/uploads/2019/10/Po_Steven-Buccini_v03.pdf"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 2911262,
+        "republican_votes": 1631163,
+        "democrat_votes": 1257692,
+        "other_votes": 22407,
+        "margin": 0.1282849156139159
+      },
+      "2004": {
+        "total_votes": 3501007,
+        "republican_votes": 1961166,
+        "democrat_votes": 1525849,
+        "other_votes": 13992,
+        "margin": 0.12434051117292824
+      },
+      "2008": {
+        "total_votes": 4310789,
+        "republican_votes": 2128474,
+        "democrat_votes": 2142651,
+        "other_votes": 39664,
+        "margin": 0.003288725103455539
+      },
+      "2012": {
+        "total_votes": 4505372,
+        "republican_votes": 2270395,
+        "democrat_votes": 2178391,
+        "other_votes": 56586,
+        "margin": 0.020420955250753988
+      },
+      "2016": {
+        "total_votes": 4741564,
+        "republican_votes": 2362631,
+        "democrat_votes": 2189316,
+        "other_votes": 189617,
+        "margin": 0.0365522852797094
+      }
+    }
+  },
+  {
+    "name": "North Dakota",
+    "abbreviation": "ND",
+    "id": 38,
+    "policy": "No post-election auditing practices.",
+    "reverse-outcome": "No",
+    "last-updated": "2019",
+    "grade": "F",
+    "sources": [],
+    "results": {
+      "2000": {
+        "total_votes": 288267,
+        "republican_votes": 174852,
+        "democrat_votes": 95284,
+        "other_votes": 18131,
+        "margin": 0.27602188249088516
+      },
+      "2004": {
+        "total_votes": 312833,
+        "republican_votes": 196651,
+        "democrat_votes": 111052,
+        "other_votes": 5130,
+        "margin": 0.2736252249602823
+      },
+      "2008": {
+        "total_votes": 316621,
+        "republican_votes": 168601,
+        "democrat_votes": 141278,
+        "other_votes": 6742,
+        "margin": 0.0862956026290107
+      },
+      "2012": {
+        "total_votes": 322932,
+        "republican_votes": 188320,
+        "democrat_votes": 124966,
+        "other_votes": 9646,
+        "margin": 0.19618371669577497
+      },
+      "2016": {
+        "total_votes": 344360,
+        "republican_votes": 216794,
+        "democrat_votes": 93758,
+        "other_votes": 33808,
+        "margin": 0.3572888837263329
+      }
+    }
+  },
+  {
+    "name": "Ohio",
+    "abbreviation": "OH",
+    "id": 39,
+    "policy": "Audits are not codified in law, but Secretary of State (SOS) traditionally mandates a hand count of at least 5% of ballots in each county, randomly selected. SOS recommends counties conduct risk-limiting audits, but not required. The Ohio Election Initiative hopes to make it mandatory to audit some sample of all elections by November 2020. RLA is recommended but not mandated by the secretary of state.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2019",
+    "grade": "B",
+    "sources": [
+      "https://ballotpedia.org/Ohio_Election_Audit_Initiative_(2020)",
+      "http://electionlab.mit.edu/sites/default/files/2019-06/Election-Auditing-Key-Issues-Perspectives_2.pdf"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 4705457,
+        "republican_votes": 2351209,
+        "democrat_votes": 2186190,
+        "other_votes": 168058,
+        "margin": 0.03506970736317429
+      },
+      "2004": {
+        "total_votes": 5625631,
+        "republican_votes": 2858727,
+        "democrat_votes": 2739952,
+        "other_votes": 26952,
+        "margin": 0.02111318712514205
+      },
+      "2008": {
+        "total_votes": 5698048,
+        "republican_votes": 2674491,
+        "democrat_votes": 2933388,
+        "other_votes": 90169,
+        "margin": 0.04543608618249618
+      },
+      "2012": {
+        "total_votes": 5580822,
+        "republican_votes": 2661407,
+        "democrat_votes": 2827621,
+        "other_votes": 91794,
+        "margin": 0.02978306779897298
+      },
+      "2016": {
+        "total_votes": 5496487,
+        "republican_votes": 2841005,
+        "democrat_votes": 2394164,
+        "other_votes": 261318,
+        "margin": 0.08129574399066167
+      }
+    }
+  },
+  {
+    "name": "Oklahoma",
+    "abbreviation": "OK",
+    "id": 40,
+    "policy": "No post-election auditing practices.",
+    "reverse-outcome": "No",
+    "last-updated": "2019",
+    "grade": "F",
+    "sources": [],
+    "results": {
+      "2000": {
+        "total_votes": 1234229,
+        "republican_votes": 744337,
+        "democrat_votes": 474276,
+        "other_votes": 15616,
+        "margin": 0.21880947538908907
+      },
+      "2004": {
+        "total_votes": 1463758,
+        "republican_votes": 959792,
+        "democrat_votes": 503966,
+        "other_votes": 0,
+        "margin": 0.3114080332951212
+      },
+      "2008": {
+        "total_votes": 1462661,
+        "republican_votes": 960165,
+        "democrat_votes": 502496,
+        "other_votes": 0,
+        "margin": 0.31290162245387004
+      },
+      "2012": {
+        "total_votes": 1334872,
+        "republican_votes": 891325,
+        "democrat_votes": 443547,
+        "other_votes": 0,
+        "margin": 0.3354463948603312
+      },
+      "2016": {
+        "total_votes": 1452992,
+        "republican_votes": 949136,
+        "democrat_votes": 420375,
+        "other_votes": 83481,
+        "margin": 0.3639118453508347
+      }
+    }
+  },
+  {
+    "name": "Oregon",
+    "abbreviation": "OR",
+    "id": 41,
+    "policy": "Mandatory audit of 3-10% of all precincts with 150 or more ballots (depending on margin of victory). Counties can conduct RLA if they choose. Reverse outcome if discrpency is larger than 0.5%.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2020-06",
+    "grade": "B",
+    "sources": [
+      "https://www.ncsl.org/research/elections-and-campaigns/post-election-audits635926066.aspx"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 1533968,
+        "republican_votes": 713577,
+        "democrat_votes": 720342,
+        "other_votes": 100049,
+        "margin": 0.00441013111094886
+      },
+      "2004": {
+        "total_votes": 1836782,
+        "republican_votes": 866831,
+        "democrat_votes": 943163,
+        "other_votes": 26788,
+        "margin": 0.04155746299778634
+      },
+      "2008": {
+        "total_votes": 1827864,
+        "republican_votes": 738475,
+        "democrat_votes": 1037291,
+        "other_votes": 52098,
+        "margin": 0.1634782456462844
+      },
+      "2012": {
+        "total_votes": 1789270,
+        "republican_votes": 754175,
+        "democrat_votes": 970488,
+        "other_votes": 64607,
+        "margin": 0.1208945547625568
+      },
+      "2016": {
+        "total_votes": 2001336,
+        "republican_votes": 782403,
+        "democrat_votes": 1002106,
+        "other_votes": 216827,
+        "margin": 0.10977816818365332
+      }
+    }
+  },
+  {
+    "name": "Pennsylvania",
+    "abbreviation": "PA",
+    "id": 42,
+    "policy": "Requires a hand count or retabulation of 2% or 2000 votes, whichever is fewer, randomly selected in each county. Currently testing implementation of RLA in the state. Hope to have it fully implemented and ready for 2022 general election.",
+    "reverse-outcome": "Unclear",
+    "last-updated": "2020-06",
+    "grade": "B",
+    "sources": [
+      "https://papost.org/2019/11/20/pa-starts-testing-new-election-auditing-procedures/",
+      "https://www.media.pa.gov/Pages/State-Details.aspx?newsid=322",
+      "https://www.dos.pa.gov/SimplyStated/Pages/Article.aspx?post=23"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 4912185,
+        "republican_votes": 2281127,
+        "democrat_votes": 2485967,
+        "other_votes": 145091,
+        "margin": 0.041700383841406626
+      },
+      "2004": {
+        "total_votes": 5765764,
+        "republican_votes": 2793847,
+        "democrat_votes": 2938095,
+        "other_votes": 33822,
+        "margin": 0.025018020161768673
+      },
+      "2008": {
+        "total_votes": 5977981,
+        "republican_votes": 2649934,
+        "democrat_votes": 3266523,
+        "other_votes": 61524,
+        "margin": 0.10314335224551567
+      },
+      "2012": {
+        "total_votes": 5742040,
+        "republican_votes": 2680434,
+        "democrat_votes": 2990274,
+        "other_votes": 71332,
+        "margin": 0.053959916684662594
+      },
+      "2016": {
+        "total_votes": 6115402,
+        "republican_votes": 2970733,
+        "democrat_votes": 2926441,
+        "other_votes": 218228,
+        "margin": 0.007242696391831641
+      }
+    }
+  },
+  {
+    "name": "Rhode Island",
+    "abbreviation": "RI",
+    "id": 44,
+    "policy": "Mandatory RLA. Risk limit is unclear.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2020-06",
+    "grade": "A",
+    "sources": [
+      "https://www.ri.gov/press/view/37355"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 409112,
+        "republican_votes": 130555,
+        "democrat_votes": 249508,
+        "other_votes": 29049,
+        "margin": 0.2907590097577192
+      },
+      "2004": {
+        "total_votes": 436289,
+        "republican_votes": 169046,
+        "democrat_votes": 259760,
+        "other_votes": 7483,
+        "margin": 0.20792181329348208
+      },
+      "2008": {
+        "total_votes": 471766,
+        "republican_votes": 165391,
+        "democrat_votes": 296571,
+        "other_votes": 9804,
+        "margin": 0.2780615813772082
+      },
+      "2012": {
+        "total_votes": 445719,
+        "republican_votes": 157151,
+        "democrat_votes": 279409,
+        "other_votes": 9159,
+        "margin": 0.2742938936863809
+      },
+      "2016": {
+        "total_votes": 464144,
+        "republican_votes": 180543,
+        "democrat_votes": 252525,
+        "other_votes": 31076,
+        "margin": 0.15508549070977973
+      }
+    }
+  },
+  {
+    "name": "South Carolina",
+    "abbreviation": "SC",
+    "id": 45,
+    "policy": "No post-election auditing practices.",
+    "reverse-outcome": "No",
+    "last-updated": "2019",
+    "grade": "F",
+    "sources": [],
+    "results": {
+      "2000": {
+        "total_votes": 1383777,
+        "republican_votes": 786426,
+        "democrat_votes": 566039,
+        "other_votes": 31312,
+        "margin": 0.15926482373966325
+      },
+      "2004": {
+        "total_votes": 1617730,
+        "republican_votes": 937974,
+        "democrat_votes": 661699,
+        "other_votes": 18057,
+        "margin": 0.1707794254912748
+      },
+      "2008": {
+        "total_votes": 1920969,
+        "republican_votes": 1034896,
+        "democrat_votes": 862449,
+        "other_votes": 23624,
+        "margin": 0.08977083961271629
+      },
+      "2012": {
+        "total_votes": 1964118,
+        "republican_votes": 1071645,
+        "democrat_votes": 865941,
+        "other_votes": 26532,
+        "margin": 0.10473097848499938
+      },
+      "2016": {
+        "total_votes": 2103027,
+        "republican_votes": 1155389,
+        "democrat_votes": 855373,
+        "other_votes": 92265,
+        "margin": 0.14265912896030342
+      }
+    }
+  },
+  {
+    "name": "South Dakota",
+    "abbreviation": "SD",
+    "id": 46,
+    "policy": "No post-election auditing practices.",
+    "reverse-outcome": "No",
+    "last-updated": "2019",
+    "grade": "F",
+    "sources": [],
+    "results": {
+      "2000": {
+        "total_votes": 316269,
+        "republican_votes": 190700,
+        "democrat_votes": 118804,
+        "other_votes": 6765,
+        "margin": 0.22732547293601332
+      },
+      "2004": {
+        "total_votes": 388215,
+        "republican_votes": 232584,
+        "democrat_votes": 149244,
+        "other_votes": 6387,
+        "margin": 0.21467485800394112
+      },
+      "2008": {
+        "total_votes": 377708,
+        "republican_votes": 203054,
+        "democrat_votes": 170924,
+        "other_votes": 3730,
+        "margin": 0.08506571213741833
+      },
+      "2012": {
+        "total_votes": 363815,
+        "republican_votes": 210610,
+        "democrat_votes": 145039,
+        "other_votes": 8166,
+        "margin": 0.1802317111718868
+      },
+      "2016": {
+        "total_votes": 370093,
+        "republican_votes": 227721,
+        "democrat_votes": 117458,
+        "other_votes": 24914,
+        "margin": 0.29793322219009816
+      }
+    }
+  },
+  {
+    "name": "Tennessee",
+    "abbreviation": "TN",
+    "id": 47,
+    "policy": "No robust post-election auditing practices because paperless DRE machines are used in the state. In jurisdictions where paper ballots are used an audit is conducted using electronic retabulation.",
+    "reverse-outcome": "Unclear",
+    "last-updated": "2020-06",
+    "grade": "F",
+    "sources": [
+      "https://www.tn.gov/content/dam/tn/tacir/2018-publications/2018_Elections.pdf"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 2076181,
+        "republican_votes": 1061949,
+        "democrat_votes": 981720,
+        "other_votes": 32512,
+        "margin": 0.03864258463014544
+      },
+      "2004": {
+        "total_votes": 2430494,
+        "republican_votes": 1381225,
+        "democrat_votes": 1032910,
+        "other_votes": 16359,
+        "margin": 0.14331037229468577
+      },
+      "2008": {
+        "total_votes": 2600124,
+        "republican_votes": 1479178,
+        "democrat_votes": 1087437,
+        "other_votes": 33509,
+        "margin": 0.15066242994564874
+      },
+      "2012": {
+        "total_votes": 2458577,
+        "republican_votes": 1462330,
+        "democrat_votes": 960709,
+        "other_votes": 35538,
+        "margin": 0.20402899726142398
+      },
+      "2016": {
+        "total_votes": 2508027,
+        "republican_votes": 1522925,
+        "democrat_votes": 870695,
+        "other_votes": 114407,
+        "margin": 0.2600570089556452
+      }
+    }
+  },
+  {
+    "name": "Texas",
+    "abbreviation": "TX",
+    "id": 48,
+    "policy": "Mandatory hand count of 1% voting machines in the state or 3 non-paperless machines, with one coming from each county.",
+    "reverse-outcome": "Unclear",
+    "last-updated": "2020-06",
+    "grade": "D",
+    "sources": [
+      "https://www.sos.state.tx.us/elections/conducting/security-update.shtml",
+      "https://www.sos.texas.gov/elections/laws/advisory2018-34.shtml#Section8"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 6407637,
+        "republican_votes": 3799639,
+        "democrat_votes": 2433746,
+        "other_votes": 174252,
+        "margin": 0.2131664137653241
+      },
+      "2004": {
+        "total_votes": 7410749,
+        "republican_votes": 4526917,
+        "democrat_votes": 2832704,
+        "other_votes": 51128,
+        "margin": 0.22861562306320185
+      },
+      "2008": {
+        "total_votes": 8077795,
+        "republican_votes": 4479328,
+        "democrat_votes": 3528633,
+        "other_votes": 69834,
+        "margin": 0.11769239006436781
+      },
+      "2012": {
+        "total_votes": 7993851,
+        "republican_votes": 4569843,
+        "democrat_votes": 3308124,
+        "other_votes": 115884,
+        "margin": 0.1578361918429553
+      },
+      "2016": {
+        "total_votes": 8969226,
+        "republican_votes": 4685047,
+        "democrat_votes": 3877868,
+        "other_votes": 406311,
+        "margin": 0.08999427598323423
+      }
+    }
+  },
+  {
+    "name": "Utah",
+    "abbreviation": "UT",
+    "id": 49,
+    "policy": "Mandatory hand count of 1% of voting machines in the state, with one coming from each county.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2019",
+    "grade": "C",
+    "sources": [
+      "https://cdn.americanprogress.org/content/uploads/2018/02/21105338/020118_ElectionSecurity-report11.pdf"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 770754,
+        "republican_votes": 515096,
+        "democrat_votes": 203053,
+        "other_votes": 52605,
+        "margin": 0.4048542076979166
+      },
+      "2004": {
+        "total_votes": 927844,
+        "republican_votes": 663742,
+        "democrat_votes": 241199,
+        "other_votes": 22903,
+        "margin": 0.45540306344601034
+      },
+      "2008": {
+        "total_votes": 952370,
+        "republican_votes": 596030,
+        "democrat_votes": 327670,
+        "other_votes": 28670,
+        "margin": 0.28178124048426556
+      },
+      "2012": {
+        "total_votes": 1017440,
+        "republican_votes": 740600,
+        "democrat_votes": 251813,
+        "other_votes": 25027,
+        "margin": 0.4804086727472873
+      },
+      "2016": {
+        "total_votes": 1131430,
+        "republican_votes": 515231,
+        "democrat_votes": 310676,
+        "other_votes": 305523,
+        "margin": 0.1807933323316511
+      }
+    }
+  },
+  {
+    "name": "Vermont",
+    "abbreviation": "VT",
+    "id": 50,
+    "policy": "Mandatory audit of 6 random towns to machine count ballots.",
+    "reverse-outcome": "No",
+    "last-updated": "2020-06",
+    "grade": "D",
+    "sources": [
+      "https://www.vpr.org/post/vermont-secretary-states-office-audit-election-results-6-towns#stream/0"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 294308,
+        "republican_votes": 119775,
+        "democrat_votes": 149022,
+        "other_votes": 25511,
+        "margin": 0.09937548418663442
+      },
+      "2004": {
+        "total_votes": 312309,
+        "republican_votes": 121180,
+        "democrat_votes": 184067,
+        "other_votes": 7062,
+        "margin": 0.20136147213176694
+      },
+      "2008": {
+        "total_votes": 325046,
+        "republican_votes": 98974,
+        "democrat_votes": 219262,
+        "other_votes": 6810,
+        "margin": 0.3700645447105948
+      },
+      "2012": {
+        "total_votes": 299290,
+        "republican_votes": 92698,
+        "democrat_votes": 199239,
+        "other_votes": 7353,
+        "margin": 0.35597915065655383
+      },
+      "2016": {
+        "total_votes": 315077,
+        "republican_votes": 95369,
+        "democrat_votes": 178573,
+        "other_votes": 41135,
+        "margin": 0.2640751308410325
+      }
+    }
+  },
+  {
+    "name": "Virginia",
+    "abbreviation": "VA",
+    "id": 51,
+    "policy": "Every jurasdiction performs an audit once in 5 years. Audits follow a risk limitting process but cannot be truly risk limitting because not all ballots are subject to audit.",
+    "reverse-outcome": "No",
+    "last-updated": "2019",
+    "grade": "C",
+    "sources": [
+      "https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-671.1/"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 2737915,
+        "republican_votes": 1436877,
+        "democrat_votes": 1216422,
+        "other_votes": 84616,
+        "margin": 0.08051930027046128
+      },
+      "2004": {
+        "total_votes": 3198367,
+        "republican_votes": 1716959,
+        "democrat_votes": 1454742,
+        "other_votes": 26666,
+        "margin": 0.08198465029185206
+      },
+      "2008": {
+        "total_votes": 3723260,
+        "republican_votes": 1725005,
+        "democrat_votes": 1959532,
+        "other_votes": 38723,
+        "margin": 0.06298969182920344
+      },
+      "2012": {
+        "total_votes": 3854489,
+        "republican_votes": 1822522,
+        "democrat_votes": 1971820,
+        "other_votes": 60147,
+        "margin": 0.038733538998295236
+      },
+      "2016": {
+        "total_votes": 3984631,
+        "republican_votes": 1769443,
+        "democrat_votes": 1981473,
+        "other_votes": 233715,
+        "margin": 0.053211953628830376
+      }
+    }
+  },
+  {
+    "name": "Washington",
+    "abbreviation": "WA",
+    "id": 53,
+    "policy": "Mandatory hand count or electronic retabulation of 4% or 1 DRE machine(s) with VVPR in each county, whichever is greater. Voluntary audit for counties who use paper ballots. Audits can escalate and affect preliminary outcomes. There are instructions on how to conduct RLA but unclear whether it is mandatory or not; election officials are 'allowed' to conduct RLA's.",
+    "reverse-outcome": "Unclear",
+    "last-updated": "2020-06",
+    "grade": "C",
+    "sources": [
+      "https://app.leg.wa.gov/RCW/default.aspx?cite=29A.60.185",
+      "https://www.sos.wa.gov/elections/general-election-faqs.aspx"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 2488441,
+        "republican_votes": 1108864,
+        "democrat_votes": 1247652,
+        "other_votes": 131925,
+        "margin": 0.055773072377444353
+      },
+      "2004": {
+        "total_votes": 2859084,
+        "republican_votes": 1304894,
+        "democrat_votes": 1510201,
+        "other_votes": 43989,
+        "margin": 0.07180866319422584
+      },
+      "2008": {
+        "total_votes": 3036878,
+        "republican_votes": 1229216,
+        "democrat_votes": 1750848,
+        "other_votes": 56814,
+        "margin": 0.17176587271533464
+      },
+      "2012": {
+        "total_votes": 3125516,
+        "republican_votes": 1290670,
+        "democrat_votes": 1755396,
+        "other_votes": 79450,
+        "margin": 0.14868776867563627
+      },
+      "2016": {
+        "total_votes": 3209214,
+        "republican_votes": 1221747,
+        "democrat_votes": 1742718,
+        "other_votes": 244749,
+        "margin": 0.1623360112476139
+      }
+    }
+  },
+  {
+    "name": "West Virginia",
+    "abbreviation": "WV",
+    "id": 54,
+    "policy": "Mandatory hand count of 3% of precincts in each county, randomly selected. Can escalate to reverse preliminary outcome.",
+    "reverse-outcome": "Yes",
+    "last-updated": "2019",
+    "grade": "C",
+    "sources": [
+      "https://www.ncsl.org/research/elections-and-campaigns/post-election-audits635926066.aspx"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 648124,
+        "republican_votes": 336475,
+        "democrat_votes": 295497,
+        "other_votes": 16152,
+        "margin": 0.06322555560355735
+      },
+      "2004": {
+        "total_votes": 755659,
+        "republican_votes": 423550,
+        "democrat_votes": 326541,
+        "other_votes": 5568,
+        "margin": 0.12837668842692274
+      },
+      "2008": {
+        "total_votes": 713451,
+        "republican_votes": 397466,
+        "democrat_votes": 303857,
+        "other_votes": 12128,
+        "margin": 0.13120592724658037
+      },
+      "2012": {
+        "total_votes": 670440,
+        "republican_votes": 417655,
+        "democrat_votes": 238269,
+        "other_votes": 14516,
+        "margin": 0.26756458445200165
+      },
+      "2016": {
+        "total_votes": 713051,
+        "republican_votes": 489371,
+        "democrat_votes": 188794,
+        "other_votes": 34886,
+        "margin": 0.42153646793847843
+      }
+    }
+  },
+  {
+    "name": "Wisconsin",
+    "abbreviation": "WI",
+    "id": 55,
+    "policy": "Mandatory hand count of 5% of all precincts, randomly selected. Cannot escalate to reverse preliminary outcome.",
+    "reverse-outcome": "No",
+    "last-updated": "2020-06",
+    "grade": "D",
+    "sources": [
+      "https://elections.wi.gov/elections-voting/voting-equipment/audit-page"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 2598607,
+        "republican_votes": 1237279,
+        "democrat_votes": 1242987,
+        "other_votes": 118341,
+        "margin": 0.002196561465431287
+      },
+      "2004": {
+        "total_votes": 2997007,
+        "republican_votes": 1478120,
+        "democrat_votes": 1489504,
+        "other_votes": 29383,
+        "margin": 0.0037984562598619223
+      },
+      "2008": {
+        "total_votes": 2983417,
+        "republican_votes": 1262393,
+        "democrat_votes": 1677211,
+        "other_votes": 43813,
+        "margin": 0.13904124029594253
+      },
+      "2012": {
+        "total_votes": 3071434,
+        "republican_votes": 1410966,
+        "democrat_votes": 1620985,
+        "other_votes": 39483,
+        "margin": 0.06837815821534828
+      },
+      "2016": {
+        "total_votes": 2975753,
+        "republican_votes": 1404440,
+        "democrat_votes": 1381823,
+        "other_votes": 189490,
+        "margin": 0.007600429202289303
+      }
+    }
+  },
+  {
+    "name": "Wyoming",
+    "abbreviation": "WY",
+    "id": 56,
+    "policy": "No mandatory audit. Does not require VVPAT. Automatic recount when margin of victory is less than 1% of all votes for winner. Outdated voted machines.",
+    "reverse-outcome": "No",
+    "last-updated": "2019",
+    "grade": "F",
+    "sources": [
+      "https://ballotpedia.org/Recount_laws_in_Wyoming"
+    ],
+    "results": {
+      "2000": {
+        "total_votes": 218351,
+        "republican_votes": 147947,
+        "democrat_votes": 60481,
+        "other_votes": 9923,
+        "margin": 0.40057522063100237
+      },
+      "2004": {
+        "total_votes": 243428,
+        "republican_votes": 167629,
+        "democrat_votes": 70776,
+        "other_votes": 5023,
+        "margin": 0.3978712391343642
+      },
+      "2008": {
+        "total_votes": 256035,
+        "republican_votes": 164958,
+        "democrat_votes": 82868,
+        "other_votes": 8209,
+        "margin": 0.3206202277032437
+      },
+      "2012": {
+        "total_votes": 249061,
+        "republican_votes": 170962,
+        "democrat_votes": 69286,
+        "other_votes": 8813,
+        "margin": 0.4082373394469628
+      },
+      "2016": {
+        "total_votes": 255849,
+        "republican_votes": 174419,
+        "democrat_votes": 55973,
+        "other_votes": 25457,
+        "margin": 0.462952757290433
+      }
+    }
+  }
+]

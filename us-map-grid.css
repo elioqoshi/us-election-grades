@@ -1,0 +1,160 @@
+.us-map-grid {
+  position: relative;
+  font-family: "Public Sans", sans-serif;
+  font-size: 0.875rem;
+  line-height: 1.4;
+  --color-umich-yellow: rgba(255, 203, 11, 1);
+  --color-umich-blue-dark: rgba(3, 42, 84, 1);
+  --color-umich-blue-score-a: rgba(0, 62, 120, 1);
+  --color-score-b: rgba(103, 168, 238, 1);
+  --color-score-c: rgba(187, 216, 246, 1);
+  --color-score-d: rgba(233, 242, 252, 1);
+  --color-score-f: rgba(245, 101, 101, 1);
+  --color-inactive-fill: rgba(247, 250, 252, 1);
+  --color-inactive-border: rgba(226, 232, 240, 1);
+  --transition-duration: 0.15s;
+  --transition-ease: ease;
+  color: var(--color-umich-blue-dark);
+}
+
+.us-map-grid svg {
+  display: block;
+  width: 100%;
+}
+
+/* Legend */
+.us-map-grid .legend-container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  font-weight: bold;
+  margin-top: 3rem;
+}
+
+.us-map-grid .legend-container > div {
+  margin: 0.5rem 1.5rem 0 0;
+}
+
+.us-map-grid .legend-item {
+  display: flex;
+  align-items: center;
+}
+
+.us-map-grid .legend-swatch {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-right: 0.5rem;
+  border: 2px solid var(--color-umich-blue-dark);
+  transition: background-color var(--transition-duration) var(--transition-ease),
+    border-color var(--transition-duration) var(--transition-ease);
+}
+
+.us-map-grid .legend-item.inactive .legend-swatch {
+  background-color: var(--color-inactive-fill);
+  border-color: var(--color-inactive-border);
+}
+
+.us-map-grid .legend-item.inactive .legend-label {
+  color: var(--color-inactive-border);
+}
+
+.us-map-grid .legend-swatch.score-a {
+  background-color: var(--color-umich-blue-score-a);
+}
+.us-map-grid .legend-swatch.score-b {
+  background-color: var(--color-score-b);
+}
+.us-map-grid .legend-swatch.score-c {
+  background-color: var(--color-score-c);
+}
+.us-map-grid .legend-swatch.score-d {
+  background-color: var(--color-score-d);
+}
+.us-map-grid .legend-swatch.score-f {
+  background-color: var(--color-score-f);
+}
+
+/* Map + Grid */
+.us-map-grid svg .score-a {
+  fill: var(--color-umich-blue-score-a);
+}
+.us-map-grid svg text.score-a {
+  fill: #ffffff;
+}
+.us-map-grid svg .score-b {
+  fill: var(--color-score-b);
+}
+.us-map-grid svg .score-c {
+  fill: var(--color-score-c);
+}
+.us-map-grid svg .score-d {
+  fill: var(--color-score-d);
+}
+.us-map-grid svg .score-f {
+  fill: var(--color-score-f);
+}
+.us-map-grid svg text.score-b,
+.us-map-grid svg text.score-c,
+.us-map-grid svg text.score-d,
+.us-map-grid svg text.score-f {
+  fill: var(--color-umich-blue-dark);
+}
+
+.us-map-grid .map-svg .state-path,
+.us-map-grid .map-svg .side-state-rect {
+  cursor: pointer;
+}
+
+.us-map-grid .map-svg .state-path,
+.us-map-grid .map-svg .side-state-rect,
+.us-map-grid .grid-svg .state-grid-rect {
+  stroke-width: 2;
+  stroke: var(--color-umich-blue-dark);
+  transition: stroke var(--transition-duration) var(--transition-ease),
+    fill var(--transition-duration) var(--transition-ease);
+}
+
+.us-map-grid .map-svg .state-path.inactive,
+.us-map-grid .map-svg .side-state.inactive .side-state-rect,
+.us-map-grid .grid-svg .state-grid.inactive .state-grid-rect {
+  stroke: var(--color-inactive-border);
+  fill: var(--color-inactive-fill);
+}
+
+.us-map-grid .map-svg .side-state-label,
+.us-map-grid .grid-svg .state-grid-label {
+  font-weight: bold;
+  pointer-events: none;
+  transition: fill var(--transition-duration) var(--transition-ease);
+}
+
+.us-map-grid .map-svg .side-state.inactive .side-state-label,
+.us-map-grid .grid-svg .state-grid.inactive .state-grid-label {
+  fill: var(--color-inactive-border);
+}
+
+/* Tooltip */
+.us-map-grid .tooltip-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: var(--color-umich-yellow);
+  border: 2px solid #ffffff;
+  padding: 0.25rem 0.5rem;
+  pointer-events: none;
+  transition: opacity var(--transition-duration) var(--transition-ease);
+}
+
+.us-map-grid .tooltip-container.hidden {
+  opacity: 0;
+}
+
+.us-map-grid .tooltip-container .tooltip-header {
+  font-size: 0.875rem;
+  font-weight: bold;
+}
+
+.us-map-grid .tooltip-container .tooltip-body {
+  font-size: 0.75rem;
+  font-size: normal;
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="us-map-grid.css" />
+    <style>
+      /* Only for this testing page */
+      #us-map-grid {
+        min-width: 320px;
+        max-width: 980px;
+        margin: 1em auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="us-map-grid"></div>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://unpkg.com/topojson-client@3"></script>
+    <script src="us-map-grid.js"></script>
+    <script>
+      renderUSMapGrid({
+        el: document.querySelector("#us-map-grid"),
+        dataURL: "state_data.json",
+      });
+    </script>
+  </body>
+</html>
